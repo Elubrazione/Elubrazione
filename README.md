@@ -12,7 +12,7 @@ Currently a third-year undergraduate student majoring in computer science and wo
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 
 In the main repository, there are some experimental codes for school courses, which may be helpful for your learning.
 - [KingSoft Fronted 2022 Spring](https://github.com/Elubrazione/FrontCourseCode)
