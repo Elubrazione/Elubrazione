@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Lingching Tung👋
+
+![Visitor Count](https://profile-counter.glitch.me/Elubrazione/count.svg)
+
+![Elubrazione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elubrazione&show_icons=true&theme=tokyonight)
+
+
 
 <!--
 **Elubrazione/Elubrazione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
