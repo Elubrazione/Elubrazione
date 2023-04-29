@@ -1,22 +1,23 @@
-### Hi, I'm Lingching Tung👋
+### Hi, here's Lingching 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Elubrazione/count.svg)
+[![Follow](https://img.shields.io/badge/-Follow%20me%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingchingram/)
+
+Currently a third-year undergraduate student majoring in computer science and working hard to grow and develop my skills😄
+
+- 🌱 Know more about me in my blog => [Elubrazione's Blog](https://elubrazione.github.io/)
+- 📫 Reach me by the email => [ashleytung0204@gmail.com](mailto:ashleytung0204@gmail.com "welcome")
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+
+In the main repository, there are some experimental codes for school courses, which may be helpful for your learning.
+- [KingSoft Fronted 2022 Spring](https://github.com/Elubrazione/FrontCourseCode)
+- [CV course 2023 Spring](https://github.com/Elubrazione/cv_labs_hust)
+- [Big Data Management 2023 Spring](https://github.com/Elubrazione/bdm_labs_hust)
+- [Compilers 2023 Spring](https://github.com/Elubrazione/compilers_labs_hust)
 
 ![Elubrazione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elubrazione&show_icons=true&theme=tokyonight)
-
-
-
-<!--
-**Elubrazione/Elubrazione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
