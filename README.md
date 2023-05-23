@@ -15,11 +15,12 @@ Currently a third-year undergraduate student majoring in computer science and wo
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 
 In the main repository, there are some experimental codes for school courses, which may be helpful for your learning.
+- [CSAPP 2022 Spring](https://github.com/Elubrazione/csapp_labs_hust)
 - [KingSoft Fronted 2022 Spring](https://github.com/Elubrazione/FrontCourseCode)
 - [CV course 2023 Spring](https://github.com/Elubrazione/cv_labs_hust)
 - [Big Data Management 2023 Spring](https://github.com/Elubrazione/bdm_labs_hust)
 - [Compilers 2023 Spring](https://github.com/Elubrazione/compilers_labs_hust)
 - [System Architecture 2023 Spring](https://github.com/Elubrazione/sys_arch_labs_hust)
-- [CSAPP 2022 Spring](https://github.com/Elubrazione/csapp_labs_hust)
+- [Other Experimental Reports](https://github.com/Elubrazione/report_hust)
 
 ![Elubrazione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elubrazione&show_icons=true&theme=tokyonight)
