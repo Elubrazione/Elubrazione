@@ -20,5 +20,6 @@ In the main repository, there are some experimental codes for school courses, wh
 - [Big Data Management 2023 Spring](https://github.com/Elubrazione/bdm_labs_hust)
 - [Compilers 2023 Spring](https://github.com/Elubrazione/compilers_labs_hust)
 - [System Architecture 2023 Spring](https://github.com/Elubrazione/sys_arch_labs_hust)
+- [CSAPP 2022 Spring](https://github.com/Elubrazione/csapp_labs_hust)
 
 ![Elubrazione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elubrazione&show_icons=true&theme=tokyonight)
