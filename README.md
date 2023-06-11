@@ -1,7 +1,5 @@
 ### Hi, here's Lingching 👋
 
-[![Follow](https://img.shields.io/badge/-Follow%20me%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lingchingram/)
-
 Currently a third-year undergraduate student majoring in computer science and working hard to grow and develop my skills😄
 
 - 🌱 Know more about me in my blog => [Elubrazione's Blog](https://elubrazione.github.io/)
