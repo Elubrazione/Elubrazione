@@ -20,6 +20,7 @@ In the main repository, there are some experimental codes for school courses, wh
 - [Big Data Management 2023 Spring](https://github.com/Elubrazione/bdm_labs_hust)
 - [Compilers 2023 Spring](https://github.com/Elubrazione/compilers_labs_hust)
 - [System Architecture 2023 Spring](https://github.com/Elubrazione/sys_arch_labs_hust)
+- [Parallel Programming & Principle 2023 Spring](https://github.com/Elubrazione/parallel_principle_labs_hust)
 - [Other Experimental Reports](https://github.com/Elubrazione/report_hust)
 
 ![Elubrazione's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elubrazione&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
