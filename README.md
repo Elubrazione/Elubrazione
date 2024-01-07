@@ -1,4 +1,4 @@
-### Hi, here's Lingching 👋
+<p> <img src="/github-metrics.svg" alt="metrics"/> </p>
 
 - 🌱 Know more about me in my blog => [Elubrazione's Blog](https://elubrazione.github.io/)
 - 📫 Reach me by the email => [elubrazione@gmail.com](mailto:elubrazione@gmail.com "welcome")
@@ -10,5 +10,3 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-FF7F00?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
-
-![Elubrazione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elubrazione&show_icons=true&theme=tokyonight&hide_border=true)
