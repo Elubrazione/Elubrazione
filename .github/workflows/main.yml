@@ -36,7 +36,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 30
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, jupyter, ipython, tex
+          plugin_languages_ignored: html, Jupyter Notebook, tex
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_indepth: yes
@@ -45,5 +45,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_region: china
+          plugin_leetcode_user: elubrazione
           plugin_leetcode_sections: solved, skills, recent
           
