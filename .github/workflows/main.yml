@@ -43,7 +43,7 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          lugin_leetcode: yes
+          plugin_leetcode: yes
           plugin_leetcode_url: https://leetcode.cn
           plugin_leetcode_sections: solved, skills, recent
           
