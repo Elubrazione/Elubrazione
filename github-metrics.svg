@@ -35,7 +35,7 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.6905257927028" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="321.6905257927028" y="0" width="48.475919256676505" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="370.16644504937926" y="0" width="40.79244335107182" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="410.9588884004511" y="0" width="27.005727464434294" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.9646158648854" y="0" width="9.038681545514367" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="447.00329741039974" y="0" width="4.756616891514925" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="451.7599143019147" y="0" width="4.275575408581276" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="456.03548971049594" y="0" width="3.964510289504078" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.7238759388029" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="321.7238759388029" y="0" width="48.46423040456558" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="370.1881063433685" y="0" width="40.78260719231742" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="410.9707135356859" y="0" width="26.999215654873588" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.96992919055947" y="0" width="9.036502075511873" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="447.00643126607133" y="0" width="4.755469942839256" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.7619012089106" y="0" width="4.274544451986613" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="456.0364456608972" y="0" width="3.963554339102789" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,7 +239,7 @@
                             </div>
                             <small>
                                 <div>1.54 MB</div>
-                                <div>69.93%</div>
+                                <div>69.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -376,7 +376,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.55
+                            Average per day at ~1.56
                         </div>
                     </section>
                 </div>
@@ -1327,10 +1327,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.909090909090908)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            <g transform="translate(-1.7, 5.363636363636363)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6363636363636362 0,2.6363636363636362 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6363636363636362 1.7,3.6363636363636362 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
